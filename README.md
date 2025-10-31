@@ -31,7 +31,7 @@
 ## 🛠 Tools Used
 - **Power BI** – Visualization & Dashboard Creation  
 - **Python (Pandas, NumPy)** – Data Cleaning & Preprocessing  
-- **Excel / CSV** – Dataset Source  
+- **Excel / CSV** – Kaggle  
 
 ---
 
